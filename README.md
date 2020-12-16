@@ -5,7 +5,7 @@ Hii, Dhanaraj here,
 welcome to this repo which contain tool developed for face detection using machine learning, scripted with python 
 
 
-# Instruction to follow
+# Steps to follow
 ## Follow these steps to try:
 
 ### 1)face_dataset.py -> To the capture faces for training
