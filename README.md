@@ -1,7 +1,7 @@
 # Face_detection_system
 Face detection tool developed using machine learning techniques
 
-Hii, Dhanaraj here
+Hii, Dhanaraj here,
 welcome to this repo which contain tool developed for face detection using machine learning, scripted with python 
 
 
